@@ -1,0 +1,7 @@
+C:\Users\Evgenii\Downloads\Laboratornaya_rabota_6\Лабораторная работа №6\Лабораторная работа №6\bin\Debug\Лабораторная работа №6.exe.config
+C:\Users\Evgenii\Downloads\Laboratornaya_rabota_6\Лабораторная работа №6\Лабораторная работа №6\bin\Debug\Лабораторная работа №6.exe
+C:\Users\Evgenii\Downloads\Laboratornaya_rabota_6\Лабораторная работа №6\Лабораторная работа №6\bin\Debug\Лабораторная работа №6.pdb
+C:\Users\Evgenii\Downloads\Laboratornaya_rabota_6\Лабораторная работа №6\Лабораторная работа №6\obj\Debug\Лабораторная работа №6.csprojAssemblyReference.cache
+C:\Users\Evgenii\Downloads\Laboratornaya_rabota_6\Лабораторная работа №6\Лабораторная работа №6\obj\Debug\Лабораторная работа №6.csproj.CoreCompileInputs.cache
+C:\Users\Evgenii\Downloads\Laboratornaya_rabota_6\Лабораторная работа №6\Лабораторная работа №6\obj\Debug\Лабораторная работа №6.exe
+C:\Users\Evgenii\Downloads\Laboratornaya_rabota_6\Лабораторная работа №6\Лабораторная работа №6\obj\Debug\Лабораторная работа №6.pdb

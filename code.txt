@@ -1,0 +1,11 @@
+a = 1;
+while (a < 3){
+	a = a + b;
+	dump(a);
+	if (a == 15){
+		break;
+	}
+}
+(dump)(a, b, false, true, 2+3);
+dump(null);
+dump(dump(15));
